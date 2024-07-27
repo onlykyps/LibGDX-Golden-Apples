@@ -1,0 +1,75 @@
+
+player_enemies.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+12 - Skeleton Dead
+  rotate: false
+  xy: 1, 67
+  size: 495, 32
+  orig: 495, 32
+  offset: 0, 0
+  index: -1
+09 - Skeleton Walk
+  rotate: false
+  xy: 1, 32
+  size: 286, 33
+  orig: 286, 33
+  offset: 0, 0
+  index: -1
+11 - Skeleton Idle
+  rotate: false
+  xy: 498, 67
+  size: 264, 32
+  orig: 264, 32
+  offset: 0, 0
+  index: -1
+13 - little_mario
+  rotate: false
+  xy: 1, 14
+  size: 224, 16
+  orig: 224, 16
+  offset: 0, 0
+  index: -1
+01 - hero walk
+  rotate: false
+  xy: 289, 1
+  size: 192, 64
+  orig: 192, 64
+  offset: 0, 0
+  index: -1
+04 - hero jump
+  rotate: false
+  xy: 483, 1
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: -1
+02 - hero fall
+  rotate: false
+  xy: 581, 17
+  size: 93, 48
+  orig: 93, 48
+  offset: 0, 0
+  index: -1
+10 - Skeleton React
+  rotate: false
+  xy: 764, 67
+  size: 88, 32
+  orig: 88, 32
+  offset: 0, 0
+  index: -1
+03 - hero idle
+  rotate: false
+  xy: 676, 1
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+05 - hero pivot
+  rotate: false
+  xy: 710, 1
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
