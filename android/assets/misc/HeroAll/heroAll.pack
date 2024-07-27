@@ -1,0 +1,33 @@
+
+heroAll.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+01 - hero walk
+  rotate: false
+  xy: 1, 51
+  size: 192, 64
+  orig: 192, 64
+  offset: 0, 0
+  index: -1
+04 - hero jump
+  rotate: false
+  xy: 195, 51
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: -1
+02 - hero fall
+  rotate: false
+  xy: 1, 1
+  size: 93, 48
+  orig: 93, 48
+  offset: 0, 0
+  index: -1
+03 - hero idle
+  rotate: false
+  xy: 293, 51
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
