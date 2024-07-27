@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.5" orientation="orthogonal" renderorder="right-down" width="240" height="36" tilewidth="16" tileheight="16" infinite="0" nextobjectid="4">
+ <tileset firstgid="1" source="Misc/CloudsBack.tsx"/>
+ <tileset firstgid="477" source="Misc/basic tiles.tsx"/>
+ <tileset firstgid="502" source="wood_tileset.tsx"/>
+ <tileset firstgid="1286" source="rotating_orbs.tsx"/>
+ <layer name="Background" width="240" height="36">
+  <data encoding="base64" compression="zlib">
+   eJztwwENAAAMAiAfy/7FDHLY6CVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVX13QEw/6Xq
+  </data>
+ </layer>
+ <layer name="Graphics" width="240" height="36">
+  <data encoding="base64" compression="zlib">
+   eJzt0lEKgkAQgOFxIehGlR2jtNPbHbyBG/gQvhnIaHwf/O+zMxsBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/OJ8yp5gW//+vqNZc4+j3m5oIt4761IirrXbXFu7l/y5snfR2ocWjTvs82eftW6ur71K/lwZPb520duHFk1p0KPm
+  </data>
+ </layer>
+ <objectgroup name="Grounds">
+  <object id="1" x="1" y="544" width="591.333" height="32"/>
+  <object id="2" x="688.333" y="543.667" width="975.333" height="33"/>
+  <object id="3" x="1776" y="544" width="2063.67" height="32"/>
+ </objectgroup>
+</map>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.5" orientation="orthogonal" renderorder="right-down" width="240" height="13" tilewidth="16" tileheight="16" infinite="0" nextobjectid="287">
+ <tileset firstgid="1" source="Misc/CloudsBack.tsx"/>
+ <tileset firstgid="477" source="Misc/basic tiles.tsx"/>
+ <tileset firstgid="502" source="wood_tileset.tsx"/>
+ <tileset firstgid="1286" source="Misc/roguelikeSheet_transparent.tsx"/>
+ <tileset firstgid="2823" source="Misc/Preview22.tsx"/>
+ <tileset firstgid="4251" source="Misc/objects.tsx"/>
+ <tileset firstgid="4527" source="Food.tsx"/>
+ <tileset firstgid="4591" source="Sheet.tsx"/>
+ <layer name="Background" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJzt2UWwkAUUhuF7L3np7u7uunR3d3e3ARai2B2gYIDdHaCE3YISBiiglGChWKACog/DzvU/wziexbM6i3e+9UlNSUlJIxOZyUJWspGddHKQk1zkJg95yUd+ClCQQhSmCEUpRnFKUJJSpEYvetFLrFeaMpSlHOWpQEUqUZkqVKUa1alBTWpRmzrUpR71aUBDGtGYJjSlWfSiF71Eexk0pwUtaUVr2tCWdrSnAx3pRGe60JVudKcHPelFb/rQl370ZwADoxe96CXaG8RghjCUYQxnBCMZxWjGMJZxjGcCE5nEZKYwlWlMZwYzmcVs5jA3etGLXqK9MziTszibecznHM7lPM7nAhZwIQu5iItZxCVcymVczhVcyVVczTVcy3XRi170Eu1dzw3cyE3czGKWcAu3spRl3Mbt3MGdLGcFd3E393Av93E/D/AgD/Ewj0QvetFLtPcoj/E4T/AkT/E0z/Asz/E8K1nFC7zIatawlnW8xMu8wqu8xuu8wZu8Fb3oRS/R3tu8w7u8x/usZwMf8CEb2cRmtvARH/MJn7KVbXzG52xnBzv5gi/Zxe7oRS96ifb2sJd9fMV+DvA13/At3/E9B/mBHznET/zML/zKbxzmCL/zB39ylGMcj170opdo7y9O8Dcnn8mppJGJzGQhK9nITjo5yEkucpOHvOQjPwUoSCEKU4SiFEuNXvSil2SvOCUoSSlKU4aylKM8FahIJSpThapUozo1qEktalOHutSjPg1oSKPoRS96ifYa04SmNCOD5rSgJa1oTRva0o72dKAjnehMF7rSje70oCe96E0f+kYvetFLtNeP/gxgIIMYzBCGMozhjGAkoxjNGMYyjvFMYCKTmMwUpjKN6cxg5mnspaed6mWknfLv3sn7f3lf9P6fvX8AGDMJeA==
+  </data>
+ </layer>
+ <layer name="GroundCorrections" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJztwzENAAAIA7Dh3yNakMDHQdqkCQAAAAAAAAAAAADAL1174NYA4YQH2A==
+  </data>
+ </layer>
+ <layer name="Graphics" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJzt10dPVGEUxvHXAaPooAx2F5aVSm/2hTEqxa4fQKq9rNgYG/a2s6HSbR9Aqr0kFrBg72LXnYqNMmD8TzAyuTJweVFG5DzJL5OB98K9J+cZglISiUQikUgkEolEIpH8+/ngodRHlOMTPuMLvuIbKlCJKlTDjhrU4ruHu+9eImnf6eqplBXe6Ibu8IENvuiBnuiF3uiDvuiH/p7uvnuJpH1nCB0cimHwgz8CEIggBCMEoQhDOCIwHCOkv/9tYq1KxSHe6u47aTvRmVkCZxORpDnnCXRwIiYhElGIRgwmYwqmYhqmYwZmYhZmG/qb5qNUOjKQiSxkI8dH796Wd6jTWtkun0e/soN92old0l/T0ZnZbs7uQarmnGPZ2TjEIwGJSMJczMN8LMBCLMJiLMFSLDPs+1F6mos85KMAhShqZn+de9ua/ZXU5wL7dBGXpL+mozOzy5wtRonmnFfQwZVYhdVYgxSsxTqsxwZsxCZsxhZsxTZDf4vpaQmu4Cqu4TpKNf/+StyXSvapCtXSX9PRmZmdszWo1ZxzKh3ci33YjzSkIwOZyEI2cnAAB3EIh3HE0N/n9PQFXuIVXuMN3kp/21z8vZUKQKC33vV+Fn4GAhBoafm5thCdmQVxNhghmnPOpYN5yEcBClGEYziOEziJUziNMziLczhv6G8FPa1EFaphRw1qEWpTKgzhiEAndIYXkrnWy7eeI0U2c/ffxbfx982J3fA8HW2/c5Wm9vAd/weUmdRUjM/o1YJndpU57FMs4hrYK6vT72toRg6RzCAK0YhppJdmz/2pOGaV7PTa0O7pprGZuUo8ZxOQqNnfUnb2Bm7iFm7jDu7iHu7jAR7iER7jCZ6izPFqciejDbs/gPcDMQiDbeZ3213eYzz7NQqjfxqDsZa6rz9r4vpyF9z9XH/bOItKGWmYm/PsJvB9d99je/YDVeNkzQ==
+  </data>
+ </layer>
+ <objectgroup name="Ground">
+  <object id="228" x="2" y="192.243" width="957.667" height="15.5145"/>
+  <object id="229" x="1040.17" y="192.243" width="1166.67" height="15.5145"/>
+  <object id="230" x="2303" y="191.909" width="1537" height="15.5145"/>
+  <object id="266" x="1185.67" y="177.667" width="174.333" height="14.3333"/>
+ </objectgroup>
+ <objectgroup name="Game">
+  <object id="283" x="352" y="176" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup name="Logs">
+  <object id="233" name="Log1" x="880" y="176" width="80" height="16"/>
+  <object id="234" x="2048" y="176" width="96" height="16"/>
+ </objectgroup>
+ <objectgroup name="Rocks">
+  <object id="255" x="1552" y="176.5" width="15.25" height="15"/>
+  <object id="256" x="2784.5" y="177" width="15.5" height="14.75"/>
+  <object id="262" x="2754.75" y="176.375" width="15.5" height="14.75"/>
+  <object id="263" x="2832" y="176.375" width="15.5" height="14.75"/>
+  <object id="264" x="2848" y="176.625" width="15.5" height="14.75"/>
+  <object id="265" x="2863.5" y="176.625" width="15.5" height="14.75"/>
+  <object id="280" x="288" y="176" width="16" height="16"/>
+  <object id="281" x="304" y="176" width="16" height="16"/>
+  <object id="282" x="320" y="176" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup name="1HitCombatant">
+  <object id="242" x="1904" y="176" width="16" height="16"/>
+  <object id="243" x="3136" y="175.818" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup name="3HitCombatant">
+  <object id="244" x="3344" y="176" width="16" height="16"/>
+  <object id="284" x="784" y="176" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup name="Coins">
+  <object id="261" x="1487" y="175" width="16.5" height="17"/>
+  <object id="285" x="512" y="176" width="16" height="16"/>
+  <object id="286" x="576" y="176" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup name="Lives">
+  <object id="247" x="2000" y="176" width="16" height="16"/>
+ </objectgroup>
+ <objectgroup name="EndGame">
+  <object id="274" x="3584" y="128" width="16" height="64"/>
+  <object id="275" x="96.3333" y="143.667" width="16" height="48"/>
+ </objectgroup>
+ <objectgroup name="Hazard">
+  <object id="276" x="960" y="192" width="80" height="16"/>
+  <object id="277" x="2208" y="192" width="96" height="16"/>
+ </objectgroup>
+</map>
